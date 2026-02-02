@@ -1,4 +1,4 @@
-# 🛡️ Safe Fail2Ban Blueprint Installer
+# 🛡️ Safe Fail2Ban Installer
 
 A **clean, safe, and production-ready Fail2Ban installer** designed specifically for:
 
