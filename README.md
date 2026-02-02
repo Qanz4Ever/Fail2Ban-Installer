@@ -118,9 +118,45 @@ tail -f /var/log/fail2ban.log
 
 ---
 
-## 📄 License
+## 📜 Licensing
 
-Apache License 2.0
+This repository uses a **dual-license system**.
+
+### 1️⃣ Apache License 2.0 (Primary License)
+
+Most files are licensed under **Apache License 2.0**, allowing:
+
+- Use
+- Modification
+- Redistribution
+
+See the `LICENSE` file for full terms.
+
+---
+
+### 2️⃣ MFSAVANA SECURITY LICENSE v1.0 (Secondary / Restricted)
+
+Certain sensitive files are licensed under a stricter license.
+
+These include (but are not limited to):
+
+- Installer scripts
+- Uninstaller scripts
+- Security patches
+- Anti-modification systems
+- Anti-access controllers
+
+Under this license, the following are **strictly prohibited**:
+
+- Reuploading or redistributing protected files
+- Selling or commercially repackaging any part of the project
+- Publishing modified versions
+- Removing or altering credits, markers, or license notices
+- Sharing modified or original versions publicly
+
+These files are **source-available but NOT open-source**.
+
+See `LICENSE-MFSAVANA` for full terms.
 
 ---
 
